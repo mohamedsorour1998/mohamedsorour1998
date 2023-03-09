@@ -15,8 +15,8 @@ company: Information Technology Institute (ITI)
 
 fields_of_interests:
   [
-   "Open Source Devloper"
-   "Kubernetes Expert"
+   "Open Source Devloper",
+   "Kubernetes Expert",
     "Cloud",
     "DevOps",
     "Java Devloper",
