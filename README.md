@@ -5,7 +5,7 @@
 
  ```yaml
 name: Mohamed-Sorour
-located_in: New Cairo,Egypt
+located_in: New Cairo, Egypt
 current_job: Open Source Developer
 education:
   [
