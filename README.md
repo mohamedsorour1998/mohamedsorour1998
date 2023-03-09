@@ -30,7 +30,6 @@ currently_preparing_for: ["AWS, CKA"]
 [<img src= "https://img.shields.io/twitter/follow/SajiyaSalat?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>][twitter]
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src ="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
-[![Hashnode Badge](https://img.shields.io/badge/-@sajiyahsalat-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://sajiyah-salat.hashnode.dev/)](https://sajiyah-salat.hashnode.dev/)
 <br></br> 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
 [![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,html,css,js,bootstrap&perline=6)](https://skillicons.dev)
