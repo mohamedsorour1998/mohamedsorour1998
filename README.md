@@ -6,10 +6,11 @@
  ```yaml
 name: Mohamed-Sorour
 located_in: New Cairo, Egypt
-current_job: Open Source Developer
+current_job: Cloud Software Engineer
 education:
   [
-  9-Months Graduate Diploma in Open Source Application Development
+  "9-Months Graduate Diploma in Open Source Application Development",
+  "Udacity Cloud Developer Nanodegree"
   ]
 company: Information Technology Institute (ITI) 
 
@@ -22,7 +23,7 @@ fields_of_interests:
     "Java Devloper",
   ]
   
-currently_preparing_for: ["AWS, CKA"]
+currently_certified: ["AWS, CKA"]
 ```
 <br></br>
 >### CONNECT WITH ME: 
