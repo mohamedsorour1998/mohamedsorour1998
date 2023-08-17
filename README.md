@@ -33,7 +33,7 @@ currently_certified: ["AWS, CKA"]
 [<img src ="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
 <br></br> 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
-[![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,html,css,js,bootstrap&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,docker,kubernetes,ansible,jenkins,githubactions,py,bash,mysql,mongodb,kafka,prometheus,git,java,maven,react,angular,nodejs,django,,&perline=6)](https://skillicons.dev)
  
 
  [twitter]: https://twitter.com/MohamedSorour98
