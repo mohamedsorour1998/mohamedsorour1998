@@ -4,30 +4,30 @@
 <br></br>
 
  ```yaml
-name: Mohamed Sorour
+Name: Mohamed Sorour
 
-located_in: New Cairo, Egypt
+Located_in: New Cairo, Egypt
 
-current_job: DevOps Engineer
+Current_job: DevOps Engineer
 
-education:
+Company: Information Technology Institute (ITI)
+
+Education:
   [
   "9-Month Professional In Open-Source Technologies Graduate Diploma, Information Technology Institute (ITI)",
   "Cloud Developer Nanodegree Program, Udacity-EGFWD Program"
   ]
 
-company: Information Technology Institute (ITI)
 
-fields_of_interests:
+Fields_of_interests:
   [
     "DevOps Engineering",
-   "Kubernetes Expert",
+    "Kubernetes Expert",
     "Cloud",
   ]
   
-currently_certified: ["AWS CCP, CKA"]
-currently_preparing_to_certifiy: ["GCP ACE, RHSCA"]
-
+Currently_certified: ["AWS CCP, CKA"]
+Currently_preparing_to_certifiy: ["GCP ACE, RHSCA"]
 ```
 <br></br>
 >### CONNECT WITH ME: 
