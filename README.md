@@ -4,26 +4,30 @@
 <br></br>
 
  ```yaml
-name: Mohamed-Sorour
+name: Mohamed Sorour
+
 located_in: New Cairo, Egypt
-current_job: Cloud Software Engineer
+
+current_job: DevOps Engineer
+
 education:
   [
-  "9-Months Graduate Diploma in Open Source Application Development",
-  "Udacity Cloud Developer Nanodegree"
+  "9-Month Professional In Open-Source Technologies Graduate Diploma, Information Technology Institute (ITI)",
+  "Cloud Developer Nanodegree Program, Udacity-EGFWD Program"
   ]
-company: Information Technology Institute (ITI) 
+
+company: Information Technology Institute (ITI)
 
 fields_of_interests:
   [
-   "Open Source Devloper",
+    "DevOps Engineering",
    "Kubernetes Expert",
     "Cloud",
-    "DevOps",
-    "Java Devloper",
   ]
   
-currently_certified: ["AWS, CKA"]
+currently_certified: ["AWS CCP, CKA"]
+currently_preparing_to_certifiy: ["GCP ACE, RHSCA"]
+
 ```
 <br></br>
 >### CONNECT WITH ME: 
