@@ -18,7 +18,6 @@ Education:
   "Cloud Developer Nanodegree Program, Udacity-EGFWD Program"
   ]
 
-
 Fields_of_interests:
   [
     "DevOps Engineering",
@@ -43,4 +42,3 @@ Currently_preparing_to_certifiy: ["GCP ACE, RHSCA"]
  [linkedin]: https://www.linkedin.com/in/mohamedsorour1998
  [github]: https://github.com/mohamedsorour1998
  [twitter]: https://twitter.com/MohamedSorour98
- 
