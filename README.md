@@ -8,13 +8,13 @@ Name: Mohamed Sorour
 
 Located_in: New Cairo, Egypt
 
-Current_job: DevOps Engineer
+Current_job: DevOps & ADAS Software Engineer
 
-Company: Information Technology Institute (ITI)
+Company: SEITech Solutions Egypt
 
 Education:
   [
-  "9-Month Professional In Open-Source Technologies Graduate Diploma, Information Technology Institute (ITI)",
+  "9-Month Professional Postgraduate Diploma in Open-Source Technologies Track - Infrastructure & Software Engineering, with a Minor in IoT, Information Technology Institute (ITI)",
   "Cloud Developer Nanodegree Program, Udacity-EGFWD Program"
   ]
 
@@ -23,6 +23,7 @@ Fields_of_interests:
     "DevOps Engineering",
     "Kubernetes Expert",
     "Cloud",
+    "ADAS"
   ]
   
 Currently_certified: ["AWS CCP, CKA"]
@@ -36,7 +37,7 @@ Currently_preparing_to_certifiy: ["GCP ACE, RHSCA"]
 [<img src= "https://img.shields.io/twitter/follow/SajiyaSalat?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>][twitter]
 <br></br> 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,docker,kubernetes,ansible,jenkins,githubactions,py,bash,mysql,mongodb,kafka,prometheus,git,java,maven,react,angular,nodejs,django,,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,ansible,jenkins,githubactions,py,bash,mysql,mongodb,kafka,nginx,prometheus,git,gitlab,cpp,cmake,qt,cassandra,java,angular,django,,&perline=6)](https://skillicons.dev)
  
 
  [linkedin]: https://www.linkedin.com/in/mohamedsorour1998
