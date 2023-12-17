@@ -14,7 +14,9 @@ Company: SEITech Solutions Egypt
 
 Education:
   [
-  "9-Month Professional Postgraduate Diploma in Open-Source Technologies Track - Infrastructure & Software Engineering, with a Minor in IoT, Information Technology Institute (ITI)",
+  "9-Month Professional Postgraduate Diploma in
+   Open-Source Technologies Track - Infrastructure & Software Engineering, with a Minor in IoT,
+   Information Technology Institute (ITI)",
   "Cloud Developer Nanodegree Program, Udacity-EGFWD Program"
   ]
 
