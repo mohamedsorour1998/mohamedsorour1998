@@ -28,8 +28,8 @@ Fields_of_interests:
     "ADAS"
   ]
   
-Currently_certified: ["AWS CCP, CKA"]
-Currently_preparing_to_certifiy: ["GCP ACE, RHSCA"]
+Currently_certified: ["AWS CCP", "CKA", "GCP ACE"]
+Currently_preparing_to_certifiy: ["RHSCA"]
 ```
 <br></br>
 >### CONNECT WITH ME: 
